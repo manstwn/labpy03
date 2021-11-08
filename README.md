@@ -1,4 +1,4 @@
-# labpy03 - Perulangan
+# labpy03 - Perulangan Python
 # Iman Setiawan
 
 **PDF Modul Praktikum 3 - Latihan 1**\
