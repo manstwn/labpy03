@@ -2,7 +2,7 @@
 # Iman Setiawan
 
 **PDF Modul Praktikum 3 - Latihan 1**\
-**Program Menampilkan Bilangan Acak**
+**Program Menampilkan Bilangan Acak dengan Jumlah yang di Inputkan**
 
 Ini adalah code pyhton saya\
 Menggunakan for in dan range
@@ -49,7 +49,7 @@ Dan ini adalah hasil output dari Program di atas\
 -----------------------------------------------------------------
 
 **PDF Modul Praktikum 3 - Tugas Praktikum 3**\
-**Program Menghitung Laba**
+**Program Menghitung Laba Dari Investasi**
 
 Ini adalah code pyhton saya\
 Code sederhana dengan perhitungan menjadi variabel, menggunakan data yang ada
