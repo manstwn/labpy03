@@ -1,4 +1,4 @@
-# Perulangan
+# labpy03 - Perulangan
 # Iman Setiawan
 
 **PDF Modul Praktikum 3 - Latihan 1**\
@@ -26,7 +26,7 @@ Dan ini adalah hasil output dari Program di atas\
 -----------------------------------------------------------------
 
 **PDF Modul Praktikum 3 - Latihan 2**\
-**Program Menampilkan Bilangan Terbesar**
+**Program Menampilkan Bilangan Terbesar dari Bilangan yang di Inputkan**
 
 Ini adalah code pyhton saya\
 Menggunakan while untuk perulangan tanpa batas dan break untuk keluar dari perulangan while tersebut.
